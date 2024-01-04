@@ -284,5 +284,8 @@
       "angular",
       "inject"
     ]
+  },
+  "volta": {
+    "node": "21.5.0"
   }
 }
